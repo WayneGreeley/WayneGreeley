@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello visitor 👋
+
+ - I have been a software developer since 1999.
+ - I am currenting learning AWS serverless and VueJS.
+ - Located in Saint Paul Minnesota USA.
 
 <!--
 **WayneGreeley/WayneGreeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
